@@ -1,0 +1,30 @@
+{
+  "embeds": [
+    {
+      "title": "Panic After Dark __Discord__ Rules",
+      "description": "🔹Keep NSFW Content IN NSFW Channels.\n🔹 If you are under the age of 18 you are not allowed to access any part of this Discord by our own guidelines. Something to consider is, that if you have snuck in, as per Discord’s Community Guidelines the NSFW channels are not meant for people under the age of 18 and have been labeled as such. For more visit [Discord's Community Guidelines](https://discordapp.com/guidelines.)\n🔹 Do not Advertise other Discords, FC's, RP Venues, Websites, etc. without permission. Sorry, but we like ourselves the most.\n🔹 Spamming channels or not following the rules in them will not be tolerated.\n",
+      "color": 12978185
+    },
+    {
+      "title": "Panic After Dark __Roleplay__ Rules",
+      "description": "🔸 **These rules were created to protect our RP Venue's Roleplay environment. As such we must enforce these.**\n🔸***Three strikes and you're out!***\n\n🔹 Be excellent to each other and to the staff. Respect other players' and their boundaries. Harassment and bullying of other players is not tolerated in our venue. Please keep your drama outside of our venue, it will not be tolerated. Do not purposefully come to meme/bombard our venue, everyone is here to have a good time.\n🔹 Don't godmod/powerplay. Don't control another person's character, you can only control yours. If you want something to affect your character that affects' another person's you must get permission too.\n🔹 In-character (IC) and out-of-character (OOC) do not correlate. Please do not allow outside OOC issues to affect IC content. In regards to what was stated before as well, do not take negative character relations (CR) personally; always keep in mind that negative CR with other characters does not mean the players dislike you.\n🔹 Don’t infomod. Just because you know something about a players character that was shared with you in an OOC setting doesn’t mean your character knows. If you wish to divulge something about a character that you learned out of the game then run it by the player before doing so.",
+      "color": 12978185,
+      "fields": [
+        {
+          "name": "Other Considerations",
+          "value": "🔹 Please, do not use minions on our estate to reserve spots for actual guests! \n🔹 Please keep your weapons sheathed at all times, i.e., don't spam abilities.\n🔹 Be considerate when sending emotes to the chat log and do not spam.\n🔹 It has already been stated, but if you are known for memeing/bombarding our venue, you will be asked to leave and banned from the Discord.\n🔹**Once again, Consent is always key.**"
+        }
+      ]
+    },
+    {
+      "description": "If you feel you are being harassed in game at our venue or in our Discord, or with someone sharing this Discord that you did not know beforehand please reach out to a Supervisor to alleviate the issue. We do NOT tolerate Drama by any means.\n",
+      "color": 12978185
+    },
+    {
+      "title": "If you agree and have read the rules please react to the ✅ emoji to gain access to the rest of our discord.",
+      "color": 12978185
+    }
+  ],
+  "username": "Panic After Dark",
+  "avatar_url": "https://cdn.discordapp.com/attachments/553500373520744449/707946449815601222/logopad2HD.png"
+}
