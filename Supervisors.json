@@ -1,0 +1,56 @@
+{
+  "embeds": [
+    {
+      "title": "Akira",
+      "description": "**Master & Owner of Panic After Dark**\nEnchanting, Alluring, Dark, and Mysterious\n\n*\"Only their first name is listed as they change it like they change their looks.\"*\n\n",
+      "color": 12978185,
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/708875791731130479/708933021671096330/image0.png"
+      }
+    },
+    {
+      "title": "Akari Meoi",
+      "description": "**Jack of Many Trades**\nFriendly, Intense, and Eager to Please\n\n*\"Alas she is nothing but a poor slave.\"*",
+      "url": "https://www.instagram.com/akari.aitsuki/",
+      "color": 12978185,
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/708875791731130479/708949256551137352/image0.png"
+      }
+    },
+    {
+      "title": "Dimara Lumina",
+      "description": "**General Manager**\nExperienced and On Top\n\n*\"Experienced in dancing and catching lion boys.\"*",
+      "color": 12978185,
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/708875791731130479/709360959990530048/image1.png"
+      }
+    },
+    {
+      "title": "Felicity Felicis",
+      "description": "**Bartender and Drink Master**\nArticulate, Ingenious, and dexterous.\n\n*\"Because she's a viera, she looks the best behind our large bartop.\"*\n",
+      "color": 12978185,
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/708875791731130479/709360887248584715/image0.png"
+      }
+    },
+    {
+      "title": "Natsume Reign",
+      "description": "**Dancer and Fortune Teller**\nSweet, passionate, and fit.\n\n*\"No one can sing like Natsume does.\"*",
+      "color": 12978185,
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/708875791731130479/708952460496208022/image0.png"
+      }
+    },
+    {
+      "title": "Palurien Meoi",
+      "description": "**Dancer and Finances**\nObedient, statistician, and small.\n\n*\"A slave to Numbers.\"*",
+      "url": "https://www.instagram.com/palurien.meoi/",
+      "color": 12978185,
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/708875791731130479/708952976173039706/image0.png"
+      }
+    }
+  ],
+  "username": "Panic After Dark",
+  "avatar_url": "https://cdn.discordapp.com/attachments/553500373520744449/707946449815601222/logopad2HD.png"
+}

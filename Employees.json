@@ -1,0 +1,42 @@
+{
+  "embeds": [
+    {
+      "title": "Chaitilo Jijonlo",
+      "description": "**Bouncer**\nTough, stoic, and crisp.\n\n*\"Small but gets the job done.\"*",
+      "url": "https://www.instagram.com/goldthelegend/",
+      "color": 12978185,
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/708875791731130479/708959266618343444/image0.png"
+      }
+    },
+    {
+      "title": "Rey Xhula",
+      "description": "**Dancer**\nFoxy, curvy, and curious.\n\n*\"Certainly flexible too.\"*",
+      "url": "https://www.instagram.com/reyvencos/",
+      "color": 12978185,
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/708875791731130479/708960452788617236/image0.png"
+      }
+    },
+    {
+      "title": "Sol Roc",
+      "description": "**Dancer**\nPetite, energetic, and prepared.\n\n*\"Not as innocent as their picture appears.\"*",
+      "url": "https://www.instagram.com/phloat82/",
+      "color": 12978185,
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/708875791731130479/708960863444533339/image0.png"
+      }
+    },
+    {
+      "title": "Zatarz Roc",
+      "description": "**Dancer**\nAgile, limber, and playful.\n\n*\"Affectionate to those she deems worthy.\"*",
+      "url": "https://www.instagram.com/katibunz/",
+      "color": 12978185,
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/708875791731130479/708961340818980902/image0.png"
+      }
+    }
+  ],
+  "username": "Panic After Dark",
+  "avatar_url": "https://cdn.discordapp.com/attachments/553500373520744449/707946449815601222/logopad2HD.png"
+}
