@@ -1,0 +1,16 @@
+{
+  "embeds": [
+    {
+      "title": "Welcome to Panic After Dark's Role Assignment Channel!",
+      "description": "Please look carefully at the key below to assign yourself a role. Please note that you cannot access our Discord Channel at all until you properly assign yourself a role.\n\nIn the case that aditional assistance is needed, please Direct Message a <@&707865650089033818> to help manually assign yourself a role.",
+      "color": 12978185
+    },
+    {
+      "title": "Home World Selection",
+      "description": "*Why homeworlds? It is easier to track the flow of traffic as well as plan ahead of time and make it easier to contact for in game meet ups. Please choose your main character's homeworld.*\n\n<:EXCALIBUR:707872514977562736> • Excalibur \n<:BEHEMOTH:707872550151127043> • Behemoth\n<:EXODUS:707872597236252714> • Exodus\n<:FAMFRIT:707872733337223198> • Famfrit\n<:HYPERION:707872657097621576> • Hyperion\n<:LAMIA:707872624486645840> • Lamia\n<:LEVIATHAN:707872640433520640> • Leviathan\n<:ULTROS:707872698327629836> • Ultros",
+      "color": 12978185
+    }
+  ],
+  "username": "Panic After Dark",
+  "avatar_url": "https://cdn.discordapp.com/attachments/553500373520744449/707946449815601222/logopad2HD.png"
+}
