@@ -1,1 +1,17 @@
-Tank: 21021201
+{
+  "embeds": [
+    {
+      "title": "Music Bot",
+      "description": "We use Groovy Bot to play all our groovy music, feel free to play what you want but don't be annoying with your song selections and avoid playing songs that are too long; we don't need to listen to *Never Gonna Give You Up* on repeat for 12 hours.",
+      "color": 12978185,
+      "fields": [
+        {
+          "name": "Commands",
+          "value": "`-play` Play a song!\n`-song` See what's playing now\n`-queue` See what's in line to play\n`-next` Skip the current song (please do not skip other's songs)"
+        }
+      ]
+    }
+  ],
+  "username": "Panic After Dark",
+  "avatar_url": "https://cdn.discordapp.com/attachments/553500373520744449/707946449815601222/logopad2HD.png"
+}
