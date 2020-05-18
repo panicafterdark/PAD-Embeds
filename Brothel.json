@@ -1,0 +1,68 @@
+{
+  "embeds": [
+    {
+      "title": "ღ Brothel ღ",
+      "description": "3 Reservation Packages with\nLimited Time Slots during opened nights!\nSecure Your Package Today!\n\n**Escorts and Rooms May Not Always be immediately Available or Already Rented out for the night!**",
+      "url": "https://panicplayroom.carrd.co/",
+      "color": 12978185,
+      "fields": [
+        {
+          "name": "♛BROTHEL HOURS♛",
+          "value": "Saturday 8PM PST | 11PM EST\nSunday 8PM PST | 11PM EST\nAll Private Rooms Close\non their respective nights at 11PM PST | 1AM EST\n\n*We stop accepting reservations 30 Minutes before close!*"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/708875791731130479/709207388644704256/brothel_area.png"
+      }
+    },
+    {
+      "title": "♡Puppy Lover's Package ♡",
+      "description": "50K ½HR | 100K 1HR\n2 Free Rounds of Drinks\n1 Complimentary Starter\n1 Complimentary Meal Per Guest\n",
+      "color": 12978185,
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/708875791731130479/709207403572232242/smallbed.png"
+      }
+    },
+    {
+      "title": "♡ True Love Package ♡",
+      "description": "75K ½HR | 150K 1HR\n2 Free Rounds of Drinks\n1 Complimentary Starter\n1 Complimentary Meal Per Guest",
+      "color": 12978185,
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/708875791731130479/709208843405754378/med1.png"
+      }
+    },
+    {
+      "color": 12978185,
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/708875791731130479/709208896081887242/med2.png"
+      }
+    },
+    {
+      "title": "♡ Forbidden Lovers Package ♡",
+      "description": "100K ½HR | 200K 1HR\n3 Free Rounds of Drinks\n2 Complimentary Starters\n2 Complimentary Meal Per Guest",
+      "color": 12978185,
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/708875791731130479/709361835135991888/master2.png"
+      }
+    },
+    {
+      "color": 12978185,
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/708875791731130479/709361850940129331/masterbath.png"
+      }
+    },
+    {
+      "color": 12978185,
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/708875791731130479/709361869089013831/prem1.png"
+      }
+    },
+    {
+      "title": "Escorts",
+      "description": "Escorts are available for you to rent with a package and include extra costs. \n\nWhen hiring an Escort with a Private Room the prices are worked out as follows:\n• Package Price Per 1 HR + Escort Hourly Rate = Grand Total\n• We have a selection of Escorts ranging from both SFW and NSFW.\n\n<:FAMFRIT:707872733337223198> Please see <#707878232099258397> to view a list of our escorts. <:FAMFRIT:707872733337223198> \n\n<:EXCALIBUR:707872514977562736> Please note that you must ask the Bouncer or whichever staff who is renting out a private room to you with an escort what escorts are available that night and at that time. <:EXCALIBUR:707872514977562736>\n",
+      "color": 12978185
+    }
+  ],
+  "username": "Panic After Dark",
+  "avatar_url": "https://cdn.discordapp.com/attachments/553500373520744449/707946449815601222/logopad2HD.png"
+}
