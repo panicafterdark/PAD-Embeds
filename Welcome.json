@@ -1,0 +1,55 @@
+{
+  "embeds": [
+    {
+      "title": "**Welcome to Panic After Dark's Official Discord Server** [18+ ONLY]",
+      "description": "**[Panic After Dark](https://panicafterdark.carrd.co/) is a 18+ Roleplay Venue put together and designed by a group of friends.** We were inspired by the love of our Master Akira and FFXIV's Roleplaying Community. This Discord is used to be able to advertise, contact, and inform our Patrons outside of FFXIV of events, changes in schedule, contact info, etc. \n\nPlease check both our rules and self assigning role text channels directly located below this one to get properly acclimated into our Discord Server. \n",
+      "color": 12978185
+    },
+    {
+      "title": "About the Venue",
+      "description": " ",
+      "color": 12978185,
+      "fields": [
+        {
+          "name": "📍 Location",
+          "value": "**Excalibur: Lavender Beds 19th Ward, Plot 46**\n(Lavender Northwest Subdivision Aetheryte)\n"
+        },
+        {
+          "name": "ℹ️ Menu, Carrd and Additional Information",
+          "value": "**Menu:** <#707889857422295080>\n**Carrd:** [Panic After Dark](https://panicafterdark.carrd.co/)\n**Instagram:** [@panicafterdark.ffxiv](https://www.instagram.com/panicafterdark.ffxiv/)\n**Other channels:**<#707878064729620520> | <#707878040746590249> | <#707876662280192042>"
+        },
+        {
+          "name": "👑 Club Owner",
+          "value": "Akira Desdaemoniath\n<@163690016437043200>"
+        },
+        {
+          "name": "👯 Our Staff",
+          "value": "**Club Supervisors:** <#707878144052559902>\n**Club Staff:** <#707878169079840808>\n**Escorts:** <#707878232099258397>"
+        },
+        {
+          "name": "💃🏽 Hiring Status",
+          "value": "**We are currently Hiring!**\nSee<#707878769473355817> for more information."
+        },
+        {
+          "name": "🏡 Ingame Venue Designed By:",
+          "value": "**A&N Housing Design**\nAkari Meoi (<@200324488640987146>) and Natsume Reign (<@557534035946242049>)"
+        },
+        {
+          "name": "🎨 Logo, Graphics, Website Designed by:",
+          "value": "**Akari Meoi** (<@200324488640987146>)"
+        }
+      ]
+    },
+    {
+      "title": "To access the rest of the Discord:",
+      "description": "You must read and agree to our rules by reacting to an emoji in <#707876662280192042>.",
+      "color": 12978185
+    },
+    {
+      "description": "**We do not allow anyone under 18+** to join, if we are under the suspicion that you are not the appropriate age, you will be removed. By joining our server and assigning yourself a role, you are agreeing that you are over the age of 18.",
+      "color": 12978185
+    }
+  ],
+  "username": "Panic After Dark",
+  "avatar_url": "https://cdn.discordapp.com/attachments/553500373520744449/707946449815601222/logopad2HD.png"
+}
