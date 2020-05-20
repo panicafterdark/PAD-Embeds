@@ -1,0 +1,49 @@
+{
+  "embeds": [
+    {
+      "title": "Nu Gua",
+      "description": "♥ Seeker of the Sun ♥ \n♥ Bisexual ♥ 200k Gil Standard Rate ♥\n♥Available Off Hours ♥",
+      "color": 12978185,
+      "fields": [
+        {
+          "name": "Kinks",
+          "value": "Bondage, Dominance, Anal, Group, Spanking, Submission"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/708875791731130479/712538999813570640/image09.png"
+      }
+    },
+    {
+      "title": "Nu Gua",
+      "description": "♥ Viera ♥ \n♥ Bisexual ♥ 250k Gil Standard Rate ♥\n♥Available Off Hours ♥",
+      "color": 12978185,
+      "fields": [
+        {
+          "name": "Kinks",
+          "value": "Dominance & Submission, Open & Experimental"
+        },
+        {
+          "name": "Turn Offs",
+          "value": "Scat & Watersports"
+        }
+      ]
+    },
+    {
+      "title": "Akari Aitsuki",
+      "description": "♥ Seeker of the Moon ♥ \n♥ Bisexual ♥ 200k Gil Standard Rate ♥\n♥ Unvailable Off Hours ♥",
+      "color": 12978185,
+      "fields": [
+        {
+          "name": "Kinks",
+          "value": "Submission, Open & Experimental, Oral Sex, Master/Pet, Bondage"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/708875791731130479/712540609700954172/image11.png"
+      }
+    }
+  ],
+  "username": "Panic After Dark",
+  "avatar_url": "https://cdn.discordapp.com/attachments/553500373520744449/707946449815601222/logopad2HD.png"
+}
