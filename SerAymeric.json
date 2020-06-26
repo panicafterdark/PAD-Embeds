@@ -1,0 +1,15 @@
+{
+  "embeds": [
+    {
+      "title": "Ser Aymeric",
+      "description": "There are allegations against the developer of the Ser Aymeric discord bot and there are a couple of things that I'd like to give an update on and ask. First, up is a quick rundown of the allegations taken from a [tweet](https://twitter.com/gayprotagonist/status/1275694720946188293): \n\n> So, the long and short of it is, **a known sexual predator with a  history of harassing his victims and those he has grudges against has a  wildly popular Discord bot which enables him to see what anyone is  saying without their knowledge on any server, to be aware of what  servers they are present in, what channels they have permissions to, and more.**\n\nthe source of the tweet seems to be from a [tumblr post](https://seraymeric-discord-spyware.tumblr.com/post/619750495312019456/some-background-for-those-who-arent-familiar), who's [tumblr](https://seraymeric-discord-spyware.tumblr.com/) has more information and possibly screenshots of the bot's code. I didn't make the Ser Aymeric, I don't know if the screenshots or real or not.\n\nThere appears to be a campaign to get the bot removed from as many servers as possible and a partnered Discord server the developer is an administrator of, Gayorzea, has decided to cancel their in-game Pride Month event as well over this.\n\nI have *some* experience and knowledge of what Discord bots can and can't do; and **any** bot can see **every** message in **any** channel it has access to. Because of this I adjusted Ser Aymeric's permissions a bit, there isn't really a reason for it to have access to anything outside of the bot channel. I don't know if we want to remove the bot entirely or not and I'm not going to remove it unless we feel it's necessary to.\n\nIn regards to the bot I use for the pretty embeds, it does not log messages, it really only sends or edits messages in response to commands that I use. I can show the *very* messy code to anyone that wants to see it as well.",
+      "color": 12978185,
+      "footer": {
+        "text": "Palurien Meoi",
+        "icon_url": "https://cdn.discordapp.com/attachments/553500373520744449/707947667917111296/chrz.png"
+      }
+    }
+  ],
+  "username": "Panic After Dark",
+  "avatar_url": "https://cdn.discordapp.com/attachments/553500373520744449/707946449815601222/logopad2HD.png"
+}
