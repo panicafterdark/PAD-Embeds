@@ -2,7 +2,7 @@
 
 ## Sending embeds
 
-Create your series of embeds on [discohook](https://discohook.org/), then copy+paste the text in the "JSON data" field from the bottom in a text editor of your choosing and save it.
+Create your series of embeds on [discohook](https://discohook.org/), then copy+paste the text in the "JSON data" field from the bottom into a text editor of your choosing and save it.
 
 To send the embeds upload the file to discord with the comment `pad!send`. The message and file should be deleted and the the embeds should all be uploaded.
 
